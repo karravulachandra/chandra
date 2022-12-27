@@ -13,6 +13,7 @@ class input{
     System.out.println("double "+d);
     System.out.println("short "+s);
     System.out.println("long "+l);
+    a.close();
   }
 }
 
